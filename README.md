@@ -1,4 +1,4 @@
 JMoney
 ======
 
-Java implementation of the Money pattern.
+An implementation of Money by Martin Fowler.
