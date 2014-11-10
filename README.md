@@ -1,4 +1,4 @@
-JMoney
-======
+mitgedanken.JMoney
+==================
 
-An implementation of Money by Martin Fowler.
+An implementation of Money by Martin Fowler for Java (8+).
